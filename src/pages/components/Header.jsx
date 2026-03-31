@@ -12,7 +12,7 @@ const Header = () => {
           padding: "10px",
         }}
       >
-        <h2>my site</h2>
+        <h2>Alinur</h2>
         <a href="">about me</a>
         <Link to="/contact">contact</Link>
         <Link to="/About">about</Link>
